@@ -1,4 +1,4 @@
-# Git Hand-On
+# Git Hands-On
 
 このリポジトリは Git ハンズオンのリポジトリです。
 
